@@ -54,7 +54,7 @@ Table of Contents
 ## [↑](#table-of-contents) Methodology and reporting
 * [Introducing the Adversary Resilience Methodology — Part One](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-one-e38e06ffd604) - Methodology using Bloodhound for defensive purposes, part one.
 * [Introducing the Adversary Resilience Methodology — Part Two](hhttps://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-two-279a1ed7863d) - Methodology using Bloodhound for defensive purposes, part two.
-* [Active Directory Security:Beyond the Easy Button](https://adsecurity.org/wp-content/uploads/2019/09/2019-DerbyCon-ActiveDirectorySecurity-BeyondTheEasyButton-Metcalf.pdf) - Defensive Active Directory by Sean Metcalf
+* [Active Directory Security:Beyond the Easy Button](https://adsecurity.org/wp-content/uploads/2019/09/2019-DerbyCon-ActiveDirectorySecurity-BeyondTheEasyButton-Metcalf-Full.pdf) - Defensive Active Directory by Sean Metcalf
 * [Troopers 2019: BloodHound and the Adversary Resilience Methodology](https://docs.google.com/presentation/d/14tHNBCavg-HfM7aoeEbGnyhVQusfwOjOyQE1_wXVs9o/edit#slide=id.g4d29456ff7_0_0) - Slide set from the Bloodhound talk at Troopers 2019. See Videos for video of this.
 * [BloodHound Head to Tail - Andy Robbins Rohan Vazarkar](https://docs.google.com/presentation/d/1wiiIRyy59lOl3lScCyEuPLK8ms5a55LP-AEgcMxR2hA/edit#slide=id.g35f391192_00) - Derbycon 2019 talk about Bloodhound.  See Videos for video of this.
 * [BlackHat USA 2019 - Finding Our Path](https://docs.google.com/presentation/d/1lQHTqXZIDxwaIUnXdO-EdvGp79RzH1rbM4zE45Kki2I/edit#slide=id.g35f391192_00) - BlackHat USA 2019 - Finding our Path: How We're Trying to Improve Active Directory Security
@@ -77,6 +77,7 @@ Table of Contents
 * [IppSec - Sizzle](https://www.youtube.com/watch?v=YVhlfUvsqYc&t=2660) - IppSec demonstrates Bloodhound collection, ingestion and usage on the box Sizzle on Hackthebox.
 * [IppSec - Reel](https://www.youtube.com/watch?v=ob9SgtFm6_g&t=3503) - IppSec demonstrates Bloodhound collection, ingestion and usage on the box Reel on Hackthebox.
 * [Course BloodHound Framework 2 Download BloodHound](https://www.youtube.com/watch?v=_RLdf6JFYfw&list=PLBqdc2sJLjwriZCQ7mcv00727gP3dCiux) - Bloodhound course by Matt harr0ey
+* [Active Directory Security Beyond the Easy Button](https://youtu.be/AZScrF6JxeQ?t=1902) - Active Directory Security Beyond the Easy Button - Sean Metcalf
 
 ## [↑](#table-of-contents) Ebooks
 * [The Dog Whisperer’s Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/) - Thorough book detailing almost everything that can be done with Bloodhound.
