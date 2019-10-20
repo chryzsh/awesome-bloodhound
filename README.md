@@ -53,7 +53,7 @@ Table of Contents
 
 ## [↑](#table-of-contents) Methodology and reporting
 * [Introducing the Adversary Resilience Methodology — Part One](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-one-e38e06ffd604) - Methodology using Bloodhound for defensive purposes, part one.
-* [Introducing the Adversary Resilience Methodology — Part Two](hhttps://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-two-279a1ed7863d) - Methodology using Bloodhound for defensive purposes, part two.
+* [Introducing the Adversary Resilience Methodology — Part Two](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-two-279a1ed7863d) - Methodology using Bloodhound for defensive purposes, part two.
 * [Active Directory Security:Beyond the Easy Button](https://adsecurity.org/wp-content/uploads/2019/09/2019-DerbyCon-ActiveDirectorySecurity-BeyondTheEasyButton-Metcalf-Full.pdf) - Defensive Active Directory by Sean Metcalf
 * [Troopers 2019: BloodHound and the Adversary Resilience Methodology](https://docs.google.com/presentation/d/14tHNBCavg-HfM7aoeEbGnyhVQusfwOjOyQE1_wXVs9o/edit#slide=id.g4d29456ff7_0_0) - Slide set from the Bloodhound talk at Troopers 2019. See Videos for video of this.
 * [BloodHound Head to Tail - Andy Robbins Rohan Vazarkar](https://docs.google.com/presentation/d/1wiiIRyy59lOl3lScCyEuPLK8ms5a55LP-AEgcMxR2hA/edit#slide=id.g35f391192_00) - Derbycon 2019 talk about Bloodhound.  See Videos for video of this.
