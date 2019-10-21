@@ -65,6 +65,7 @@ Table of Contents
 * [Bloodhound Cypher Cheatsheet](https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/) - Cheatsheet detailing how to write Cypher queries.
 * [Neo4j Drivers & Language Guides](https://neo4j.com/developer/language-guides/) - Neo4j drivers and language guides.
 * [Blue Hands On Bloodhound](https://insinuator.net/2019/10/blue-hands-on-bloodhound/) - Data manipulation with Bloodhound.
+* [Cypher Query Gallery](https://github.com/BloodHoundAD/BloodHound/wiki/Cypher-Query-Gallery) - Cypher Query Gallery from the official Bloodhound wiki.
 
 ## [↑](#table-of-contents) Videos
 * [Six Degrees of Domain Admin...](https://www.youtube.com/watch?v=lxd2rerVsLo) - Presentation of Bloodhound from 2016 by Andy Robbins, Will Schroeder and Rohan Vazarkar.
