@@ -3,7 +3,7 @@ A curated list of awesome Bloodhound resources
 
 ![Bloodhound](https://camo.githubusercontent.com/bcbb9550b8c6a48223efb5a83273cdcc162b3626/687474703a2f2f692e696d6775722e636f6d2f5365336175484e2e706e67)
 
-This list is for liks to learn and use the awesome Active Directory recon tool Bloodhound. It will for the most part consist of tools available on Github, videos demonstrating the tools, blog posts and wikis. The list is somewhat categorized by type. You can contribute by sending pull requests, create issues with suggestions or write to me on Twitter [@chryzsh](https://twitter.com/chryzsh). I have made a markdown template for adding new links here -> [Contributing](#-contributing).
+This list is for links to learn and use the awesome Active Directory recon tool Bloodhound. It will for the most part consist of tools available on Github, videos demonstrating the tools, blog posts and wikis. The list is somewhat categorized by type. You can contribute by sending pull requests, create issues with suggestions or write to me on Twitter [@chryzsh](https://twitter.com/chryzsh). I have made a markdown template for adding new links here -> [Contributing](#-contributing).
 
 Join the BloodHound Slack: http://bloodhoundgang.herokuapp.com/
 
@@ -55,8 +55,8 @@ Table of Contents
 * [Introducing the Adversary Resilience Methodology — Part One](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-one-e38e06ffd604) - Methodology using Bloodhound for defensive purposes, part one.
 * [Introducing the Adversary Resilience Methodology — Part Two](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-two-279a1ed7863d) - Methodology using Bloodhound for defensive purposes, part two.
 * [Active Directory Security:Beyond the Easy Button](https://adsecurity.org/wp-content/uploads/2019/09/2019-DerbyCon-ActiveDirectorySecurity-BeyondTheEasyButton-Metcalf-Full.pdf) - Defensive Active Directory by Sean Metcalf
-* [Troopers 2019: BloodHound and the Adversary Resilience Methodology](https://docs.google.com/presentation/d/14tHNBCavg-HfM7aoeEbGnyhVQusfwOjOyQE1_wXVs9o/edit#slide=id.g4d29456ff7_0_0) - Slide set from the Bloodhound talk at Troopers 2019. See Videos for video of this.
-* [BloodHound Head to Tail - Andy Robbins Rohan Vazarkar](https://docs.google.com/presentation/d/1wiiIRyy59lOl3lScCyEuPLK8ms5a55LP-AEgcMxR2hA/edit#slide=id.g35f391192_00) - Derbycon 2019 talk about Bloodhound.  See Videos for video of this.
+* [Troopers 2019: BloodHound and the Adversary Resilience Methodology](https://docs.google.com/presentation/d/14tHNBCavg-HfM7aoeEbGnyhVQusfwOjOyQE1_wXVs9o/edit#slide=id.g4d29456ff7_0_0) - Slide set from the Bloodhound talk at Troopers 2019. See the Videos section for a video of this.
+* [BloodHound Head to Tail - Andy Robbins Rohan Vazarkar](https://docs.google.com/presentation/d/1wiiIRyy59lOl3lScCyEuPLK8ms5a55LP-AEgcMxR2hA/edit#slide=id.g35f391192_00) - Derbycon 2019 talk about Bloodhound.  See Videos section for a video of this.
 * [BlackHat USA 2019 - Finding Our Path](https://docs.google.com/presentation/d/1lQHTqXZIDxwaIUnXdO-EdvGp79RzH1rbM4zE45Kki2I/edit#slide=id.g35f391192_00) - BlackHat USA 2019 - Finding our Path: How We're Trying to Improve Active Directory Security
 
 ## [↑](#table-of-contents) Cypher
@@ -70,15 +70,15 @@ Table of Contents
 ## [↑](#table-of-contents) Videos
 * [Six Degrees of Domain Admin...](https://www.youtube.com/watch?v=lxd2rerVsLo) - Presentation of Bloodhound from 2016 by Andy Robbins, Will Schroeder and Rohan Vazarkar.
 * [How BloodHound's Session Collection Works](https://www.youtube.com/watch?v=q86VgM2Tafc) - Brief explanation of session collection by Andy Robbins (wald0).
-* [BloodHound 2.1's New Computer Takeover Attack](https://www.youtube.com/watch?v=RUbADHcBLKg) - Brief explanation of a feature in Bloodhound 2.1, by Andy Robbins (wald0).
-[TR19: BloodHound and the Adversary Resilience Methodology](https://www.youtube.com/watch?v=0r8FzbOg2YU&t=2400s) - Talk from Trooppers 2019 by the Bloodhound creators about using Bloodhound defensively.
+* [BloodHound 2.1's New Computer Takeover Attack](https://www.youtube.com/watch?v=RUbADHcBLKg) - Brief explanation of a feature in Bloodhound 2.1, by Andy Robbins.
+* [TR19: BloodHound and the Adversary Resilience Methodology](https://www.youtube.com/watch?v=0r8FzbOg2YU&t=2400s) - Talk from Trooppers 2019 by the Bloodhound creators about using Bloodhound defensively.
 * [BloodHound Head to Tail - Andy Robbins Rohan Vazarkar](https://www.youtube.com/watch?v=fqYoOoghqdE) - Derbycon 2019 talk about Bloodhound
 * [BloodHound - Analyzing Active Directory Trust Relationships](https://www.youtube.com/watch?v=gOpsLiJFI1o) - Short usage video on exploring trust relationships by Raphael Mudge.
 * [Extending BloodHound for Red Teamers](https://www.youtube.com/watch?v=Pn7GWRXfgeI) - Talk about adapting and extending Bloodhound for red team usage.
 * [IppSec - Sizzle](https://www.youtube.com/watch?v=YVhlfUvsqYc&t=2660) - IppSec demonstrates Bloodhound collection, ingestion and usage on the box Sizzle on Hackthebox.
 * [IppSec - Reel](https://www.youtube.com/watch?v=ob9SgtFm6_g&t=3503) - IppSec demonstrates Bloodhound collection, ingestion and usage on the box Reel on Hackthebox.
 * [Course BloodHound Framework 2 Download BloodHound](https://www.youtube.com/watch?v=_RLdf6JFYfw&list=PLBqdc2sJLjwriZCQ7mcv00727gP3dCiux) - Bloodhound course by Matt harr0ey
-* [Active Directory Security Beyond the Easy Button](https://youtu.be/AZScrF6JxeQ?t=1902) - Active Directory Security Beyond the Easy Button - Sean Metcalf
+* [Active Directory Security Beyond the Easy Button](https://youtu.be/AZScrF6JxeQ?t=1902) - Active Directory Security Beyond the Easy Button - Sean Metcalf.
 
 ## [↑](#table-of-contents) Ebooks
 * [The Dog Whisperer’s Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/) - Thorough book detailing almost everything that can be done with Bloodhound.
