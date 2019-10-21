@@ -18,6 +18,7 @@ Table of Contents
 * [Ebooks](#-ebooks)
 * [Social](#-social)
 * [Tips & tricks](#-tips)
+* [Non-English material](#-notenglish)
 * [Contributing](#-contributing)
 
 ## [↑](#table-of-contents) Getting Started
@@ -94,6 +95,10 @@ Table of Contents
 * [Get help from Bloodhound - @wald0](https://twitter.com/_wald0/status/1154440486410579974?s=20) - How do I abuse a relationship that #BloodHound is showing me?
 * [Computer objects in Bloodhound - @wald0](https://twitter.com/_wald0/status/1167550622851190784?s=20) - Did you know...
 * [Unsupported OS - @aceb0nd](https://twitter.com/aceb0nd/status/1166150922021429248?s=20) - Find unsupported (and potentially vulnerable) Windows OS using this cypher query.
+
+## [↑](#table-of-contents) Non-English material
+* [Bloodhound en français](https://beta.hackndo.com/bloodhound/) - BloodHound usage article in French, by pixis
+* [Bloodhound en français - translated](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fbeta.hackndo.com%2Fbloodhound%2F) - Google translated version of the above article
 
 ## [↑](#table-of-contents) Contributing
 You can contribute by sending pull requests, create issues with suggestions or write to me on Twitter [@chryzsh](https://twitter.com/chryzsh). If you want to contribute directly you can use the following markdown templates.
