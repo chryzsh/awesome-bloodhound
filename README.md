@@ -1,7 +1,7 @@
 # awesome-bloodhound
 A curated list of awesome Bloodhound resources
 
-![Bloodhound](https://i.imgur.com/xImruIS.png)
+![Bloodhound](https://i.imgur.com/RHn4vn5.png)
 
 This list is for links to learn and use the awesome Active Directory reconnaissance tool Bloodhound. It will for the most part consist of tools available on Github, videos demonstrating the tools, blog posts and wikis.
 
@@ -13,7 +13,7 @@ Thank you to all of the authors of the content referenced in this page, and to a
 
 Table of Contents
 =================
-- [Getting Started](#getting-started)
+* [Getting Started](#getting-started)
 * [Features and updates](#features-and-updates)
 * [Tools](#tools)
 * [Methodology and reporting](#methodology-and-reporting)
@@ -110,7 +110,7 @@ If this is your first time using Bloodhound , the Bloodhound repository is the p
 
 ## Non-English material
 * [Bloodhound en français](https://beta.hackndo.com/bloodhound/) - BloodHound usage article in French, by pixis
-* [Bloodhound en français - translated](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fbeta.hackndo.com%2Fbloodhound%2F) - Google translated version of the above article
+  * [Bloodhound en français - translated](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fbeta.hackndo.com%2Fbloodhound%2F) - Google translated version of the above article
 
 ## Contributing
 If you want to contribute directly, you can use the following markdown template for creating new entries.
