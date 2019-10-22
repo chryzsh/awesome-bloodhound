@@ -98,7 +98,7 @@ If this is your first time using Bloodhound , the Bloodhound repository is the p
 * [@CptJesus](https://twitter.com/cptjesus) - Bloodhound creator and maintainer
 * [@wald0](https://twitter.com/_wald0) - Bloodhound creator and maintainer
 * [@harmj0y](https://twitter.com/harmj0y) - Bloodhound creato
-* [@SadProcessor)(https://twitter.com/sadprocessor) - Writer of The Dog Whisperer's Handbook - See the [Ebooks](#ebooks) section for download.
+* [@SadProcessor](https://twitter.com/sadprocessor) - Writer of The Dog Whisperer's Handbook - See the [Ebooks](#ebooks) section for download.
 
 ## Tips and tricks
 * [Submitting New Attack Primitives](https://github.com/BloodHoundAD/BloodHound/wiki/Submitting-New-Attack-Primitives) - Submitting New Attack Primitives in Bloodhound
