@@ -1,44 +1,51 @@
 # awesome-bloodhound
 A curated list of awesome Bloodhound resources
 
-![Bloodhound](https://camo.githubusercontent.com/bcbb9550b8c6a48223efb5a83273cdcc162b3626/687474703a2f2f692e696d6775722e636f6d2f5365336175484e2e706e67)
+![Bloodhound](https://i.imgur.com/xImruIS.png)
 
-This list is for links to learn and use the awesome Active Directory recon tool Bloodhound. It will for the most part consist of tools available on Github, videos demonstrating the tools, blog posts and wikis. The list is somewhat categorized by type. You can contribute by sending pull requests, create issues with suggestions or write to me on Twitter [@chryzsh](https://twitter.com/chryzsh). I have made a markdown template for adding new links here -> [Contributing](#-contributing).
+This list is for links to learn and use the awesome Active Directory reconnaissance tool Bloodhound. It will for the most part consist of tools available on Github, videos demonstrating the tools, blog posts and wikis.
+
+You can contribute by submitting pull requests, creating issues with suggestions or write to me [@chryzsh](https://twitter.com/chryzsh) or ping @crusher on the [Bloodhound Slack](http://bloodhoundgang.herokuapp.com/). I have made a markdown template for adding new links here -> [Contributing](#-contributing).
 
 Join the BloodHound Slack: http://bloodhoundgang.herokuapp.com/
 
+Thank you to all of the authors of the content referenced in this page, and to all who contribute here and in the Bloodhound Slack.
+
 Table of Contents
 =================
-* [Getting Started](#-getting-started)
-* [Features and updates](#-features)
-* [Tools](#-tools)
-* [Methodology and reporting](#-method)
-* [Cypher](#-cypher)
-* [Videos](#-videos)
-* [Ebooks](#-ebooks)
-* [Social](#-social)
-* [Tips & tricks](#-tips)
-* [Non-English material](#-notenglish)
-* [Contributing](#-contributing)
+- [Getting Started](#getting-started)
+* [Features and updates](#features-and-updates)
+* [Tools](#tools)
+* [Methodology and reporting](#methodology-and-reporting)
+* [Cypher](#cypher)
+* [Videos](#videos)
+* [Ebooks](#ebooks)
+* [Social](#social)
+* [Tips & tricks](#tips-and-tricks)
+* [Non-English material](#non-english-material)
+* [Contributing](#contributing)
 
-## [↑](#table-of-contents) Getting Started
+## Getting Started
+If this is your first time using Bloodhound , the Bloodhound repository is the place to start. Its wiki will show you have to download, install and get started using Bloodhound.
+
 * [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - The Bloodhound repository
 * [Bloodhound Wiki](https://github.com/BloodHoundAD/BloodHound/wiki) - The Bloodhound repository wiki
 * [Neo4j](https://neo4j.com/) - Neo4j, Bloodhound's graph database
 
-## [↑](#table-of-contents) Features and updates
+## Features and updates
 * [Introducing BloodHound](https://wald0.com/?p=68) - Introducing BloodHound by wald0
-* [BloodHound 1.3 – The ACL Attack Path Update](https://wald0.com/?p=112) - Description of the 1.3 feature update by wald0
-* [SharpHound: Evolution of the BloodHound Ingestor](https://blog.cptjesus.com/posts/newbloodhoundingestor) - Description of the rewritten Sharphound ingestor.
-* [BloodHound 1.4: The Object Properties Update](https://blog.cptjesus.com/posts/bloodhoundobjectproperties) - Description of the 1.4 update by CptJesus
+* [BloodHound 1.3 – The ACL Attack Path Update](https://wald0.com/?p=112) - Description of the 1.3 feature update by [@wald0](https://twitter.com/_wald0)
+* [SharpHound: Evolution of the BloodHound Ingestor](https://blog.cptjesus.com/posts/newbloodhoundingestor) - Description of the rewritten Sharphound ingestor by [CptJesus](https://twitter.com/cptjesus).
+* [BloodHound 1.4: The Object Properties Update](https://blog.cptjesus.com/posts/bloodhoundobjectproperties) - Description of the 1.4 update.
 * [SharpHound: Technical Details](https://blog.cptjesus.com/posts/sharphoundtechnical) - Technical details of the Sharphound ingestor
 * [SharpHound: Target Selection and API Usage](https://blog.cptjesus.com/posts/sharphoundtargeting) - Description of how collection is done
 * [BloodHound 1.5: The Container Update](https://blog.cptjesus.com/posts/bloodhound15) - Description of the 1.5 update by CptJesus
 * [BloodHound 2.0](https://blog.cptjesus.com/posts/bloodhound20) - Description of the 2.0 update by CptJesus
 * [BloodHound 2.1: The Fix Broken Stuff Update](https://blog.cptjesus.com/posts/bloodhound21) - Description of the 2.1 update by CptJesus
 
-## [↑](#table-of-contents) Tools
+## Tools
 * [BloodHoundAD/BloodHound-Tools](https://github.com/BloodHoundAD/BloodHound-Tools) - Miscellaneous tools for BloodHound
+  - [BloodHound Database Creator](https://github.com/BloodHoundAD/BloodHound-Tools/tree/master/DBCreator) - This python script will generate a randomized data set for testing BloodHound features and analysis.
 * [BloodHoundAD/SharpHound](https://github.com/BloodHoundAD/SharpHound) - The BloodHound C# Ingestor
 * [fox-it/BloodHound.py](https://github.com/fox-it/BloodHound.py) - A Python based ingestor for BloodHound
 * [peterhgombos/bloodhounddemo](https://hub.docker.com/r/peterhgombos/bloodhounddemo) - Docker container containing a quick demo database for Bloodhound using the official neo4j image.
@@ -53,7 +60,7 @@ Table of Contents
 * [Coalfire-Research/Vampire](https://github.com/Coalfire-Research/Vampire) - Vampire is an aggressor script which integrates with BloodHound to mark nodes as owned.
 * [chrismaddalena/Fox](https://github.com/chrismaddalena/Fox) -A companion tool for BloodHound offering Active Directory statistics and number crunching  
 
-## [↑](#table-of-contents) Methodology and reporting
+## Methodology and reporting
 * [Introducing the Adversary Resilience Methodology — Part One](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-one-e38e06ffd604) - Methodology using Bloodhound for defensive purposes, part one.
 * [Introducing the Adversary Resilience Methodology — Part Two](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-two-279a1ed7863d) - Methodology using Bloodhound for defensive purposes, part two.
 * [Active Directory Security:Beyond the Easy Button](https://adsecurity.org/wp-content/uploads/2019/09/2019-DerbyCon-ActiveDirectorySecurity-BeyondTheEasyButton-Metcalf-Full.pdf) - Defensive Active Directory by Sean Metcalf
@@ -61,7 +68,7 @@ Table of Contents
 * [BloodHound Head to Tail - Andy Robbins Rohan Vazarkar](https://docs.google.com/presentation/d/1wiiIRyy59lOl3lScCyEuPLK8ms5a55LP-AEgcMxR2hA/edit#slide=id.g35f391192_00) - Derbycon 2019 talk about Bloodhound.  See Videos section for a video of this.
 * [BlackHat USA 2019 - Finding Our Path](https://docs.google.com/presentation/d/1lQHTqXZIDxwaIUnXdO-EdvGp79RzH1rbM4zE45Kki2I/edit#slide=id.g35f391192_00) - BlackHat USA 2019 - Finding our Path: How We're Trying to Improve Active Directory Security
 
-## [↑](#table-of-contents) Cypher
+## Cypher
 * [BloodHound: Intro to Cypher](https://blog.cptjesus.com/posts/introtocypher) - Intro to Cypher
 * [awsmhacks/awsmBloodhoundCustomQueries](https://github.com/awsmhacks/awsmBloodhoundCustomQueries) - Collection of Cypher queries
 * [Bloodhound Cypher Cheatsheet](https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/) - Cheatsheet detailing how to write Cypher queries.
@@ -69,7 +76,7 @@ Table of Contents
 * [Blue Hands On Bloodhound](https://insinuator.net/2019/10/blue-hands-on-bloodhound/) - Data manipulation with Bloodhound.
 * [Cypher Query Gallery](https://github.com/BloodHoundAD/BloodHound/wiki/Cypher-Query-Gallery) - Cypher Query Gallery from the official Bloodhound wiki.
 
-## [↑](#table-of-contents) Videos
+## Videos
 * [Six Degrees of Domain Admin...](https://www.youtube.com/watch?v=lxd2rerVsLo) - Presentation of Bloodhound from 2016 by Andy Robbins, Will Schroeder and Rohan Vazarkar.
 * [How BloodHound's Session Collection Works](https://www.youtube.com/watch?v=q86VgM2Tafc) - Brief explanation of session collection by Andy Robbins (wald0).
 * [BloodHound 2.1's New Computer Takeover Attack](https://www.youtube.com/watch?v=RUbADHcBLKg) - Brief explanation of a feature in Bloodhound 2.1, by Andy Robbins.
@@ -82,14 +89,18 @@ Table of Contents
 * [Course BloodHound Framework 2 Download BloodHound](https://www.youtube.com/watch?v=_RLdf6JFYfw&list=PLBqdc2sJLjwriZCQ7mcv00727gP3dCiux) - Bloodhound course by Matt harr0ey
 * [Active Directory Security Beyond the Easy Button](https://youtu.be/AZScrF6JxeQ?t=1902) - Active Directory Security Beyond the Easy Button - Sean Metcalf.
 
-## [↑](#table-of-contents) Ebooks
+## Ebooks
 * [The Dog Whisperer’s Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/) - Thorough book detailing almost everything that can be done with Bloodhound written by [@sadprocessor](https://twitter.com/sadprocessor).
 
-## [↑](#table-of-contents) Social
+## Social
 * [Join the BloodHound Slack](http://bloodhoundgang.herokuapp.com) - Slack channel for talk about Bloodhound and other shenanigans.
 * [The Official BloodHound Swag Store](https://www.customink.com/fundraising/bloodhound-swag) - The Official BloodHound Swag Store
+* [@CptJesus](https://twitter.com/cptjesus) - Bloodhound creator and maintainer
+* [@wald0](https://twitter.com/_wald0) - Bloodhound creator and maintainer
+* [@harmj0y](https://twitter.com/harmj0y) - Bloodhound creato
+* [@SadProcessor)(https://twitter.com/sadprocessor) - Writer of The Dog Whisperer's Handbook - See the [Ebooks](#ebooks) section for download.
 
-## [↑](#table-of-contents) Tips & tricks
+## Tips and tricks
 * [Submitting New Attack Primitives](https://github.com/BloodHoundAD/BloodHound/wiki/Submitting-New-Attack-Primitives) - Submitting New Attack Primitives in Bloodhound
 * [Stop Bloodhound data gathering? - @jeffmcjunkin](https://twitter.com/jeffmcjunkin/status/1184872807500435456) - How to stop Bloodhound data gathering?
 * [Controlling AD Recon (Bloodhound) - @PyroTek3](https://twitter.com/PyroTek3/status/1184935580246904834) - Controlling AD Recon (Bloodhound)
@@ -97,12 +108,12 @@ Table of Contents
 * [Computer objects in Bloodhound - @wald0](https://twitter.com/_wald0/status/1167550622851190784?s=20) - Did you know...
 * [Unsupported OS - @aceb0nd](https://twitter.com/aceb0nd/status/1166150922021429248?s=20) - Find unsupported (and potentially vulnerable) Windows OS using this cypher query.
 
-## [↑](#table-of-contents) Non-English material
+## Non-English material
 * [Bloodhound en français](https://beta.hackndo.com/bloodhound/) - BloodHound usage article in French, by pixis
 * [Bloodhound en français - translated](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fbeta.hackndo.com%2Fbloodhound%2F) - Google translated version of the above article
 
-## [↑](#table-of-contents) Contributing
-You can contribute by sending pull requests, create issues with suggestions or write to me on Twitter [@chryzsh](https://twitter.com/chryzsh). If you want to contribute directly you can use the following markdown templates.
+## Contributing
+If you want to contribute directly, you can use the following markdown template for creating new entries.
 ```
 * [username/github-repo](https://github.com/username/github-repo) - Brief description.
 * []() - 
