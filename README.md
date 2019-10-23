@@ -46,6 +46,7 @@ If this is your first time using Bloodhound , the Bloodhound repository is the p
 ## Tools
 * [BloodHoundAD/BloodHound-Tools](https://github.com/BloodHoundAD/BloodHound-Tools) - Miscellaneous tools for BloodHound
   - [BloodHound Database Creator](https://github.com/BloodHoundAD/BloodHound-Tools/tree/master/DBCreator) - This python script will generate a randomized data set for testing BloodHound features and analysis.
+  - [BloodHound Analytics](https://github.com/BloodHoundAD/BloodHound-Tools/blob/master/bloodhoundanalytics.py) - This python script will analyze existing BloodHound data in a neo4j database.
 * [BloodHoundAD/SharpHound](https://github.com/BloodHoundAD/SharpHound) - The BloodHound C# Ingestor
 * [fox-it/BloodHound.py](https://github.com/fox-it/BloodHound.py) - A Python based ingestor for BloodHound
 * [peterhgombos/bloodhounddemo](https://hub.docker.com/r/peterhgombos/bloodhounddemo) - Docker container containing a quick demo database for Bloodhound using the official neo4j image.
