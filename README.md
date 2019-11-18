@@ -1,7 +1,7 @@
 # awesome-bloodhound
 A curated list of awesome Bloodhound resources
 
-![Bloodhound](https://i.imgur.com/RHn4vn5.png)
+![Bloodhound](bh.png)
 
 This list is for links to learn and use the awesome Active Directory reconnaissance tool Bloodhound. It will for the most part consist of tools available on Github, videos demonstrating the tools, blog posts and wikis.
 
@@ -13,17 +13,19 @@ Thank you to all of the authors of the content referenced in this page, and to a
 
 Table of Contents
 =================
-* [Getting Started](#getting-started)
-* [Features and updates](#features-and-updates)
-* [Tools](#tools)
-* [Methodology and reporting](#methodology-and-reporting)
-* [Cypher](#cypher)
-* [Videos](#videos)
-* [Ebooks](#ebooks)
-* [Social](#social)
-* [Tips & tricks](#tips-and-tricks)
-* [Non-English material](#non-english-material)
-* [Contributing](#contributing)
+- [awesome-bloodhound](#awesome-bloodhound)
+- [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+  - [Features and updates](#features-and-updates)
+  - [Usage guides](#usage-guides)
+  - [Tools](#tools)
+  - [Methodology and reporting](#methodology-and-reporting)
+  - [Cypher](#cypher)
+  - [Videos](#videos)
+  - [Ebooks](#ebooks)
+  - [Social](#social)
+  - [Tips and tricks](#tips-and-tricks)
+  - [Contributing](#contributing)
 
 ## Getting Started
 If this is your first time using Bloodhound , the Bloodhound repository is the place to start. Its wiki will show you have to download, install and get started using Bloodhound.
@@ -42,6 +44,13 @@ If this is your first time using Bloodhound , the Bloodhound repository is the p
 * [BloodHound 1.5: The Container Update](https://blog.cptjesus.com/posts/bloodhound15) - Description of the 1.5 update by CptJesus
 * [BloodHound 2.0](https://blog.cptjesus.com/posts/bloodhound20) - Description of the 2.0 update by CptJesus
 * [BloodHound 2.1: The Fix Broken Stuff Update](https://blog.cptjesus.com/posts/bloodhound21) - Description of the 2.1 update by CptJesus
+
+## Usage guides
+* [SadProcessor/HandsOnBloodHound](https://github.com/SadProcessor/HandsOnBloodHound) - Material for the "Hands-On BloodHound" Workshop
+  * [HandsOnBloodHound.pdf](https://github.com/SadProcessor/HandsOnBloodHound/blob/master/Workshop/HandsOnBloodHound.pdf) - Slides for the above talk at Brucon2019, by @SadProcessor
+* [Bloodhound en français](https://beta.hackndo.com/bloodhound/) - BloodHound usage article in French, by pixis
+  * [Bloodhound en français - translated](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fbeta.hackndo.com%2Fbloodhound%2F) - Google translated version of the above article
+* [BloodHound Tips and Tricks - riccardoancarani.it](https://www.riccardoancarani.it/bloodhound-tips-and-tricks/) - Tips and tricks for Bloodhound workflow and using the functionality.
 
 ## Tools
 * [BloodHoundAD/BloodHound-Tools](https://github.com/BloodHoundAD/BloodHound-Tools) - Miscellaneous tools for BloodHound
@@ -76,6 +85,7 @@ If this is your first time using Bloodhound , the Bloodhound repository is the p
 * [Neo4j Drivers & Language Guides](https://neo4j.com/developer/language-guides/) - Neo4j drivers and language guides.
 * [Blue Hands On Bloodhound](https://insinuator.net/2019/10/blue-hands-on-bloodhound/) - Data manipulation with Bloodhound.
 * [Cypher Query Gallery](https://github.com/BloodHoundAD/BloodHound/wiki/Cypher-Query-Gallery) - Cypher Query Gallery from the official Bloodhound wiki.
+* [RamblingCookieMonster/PSNeo4j](https://github.com/RamblingCookieMonster/PSNeo4j) - PSNeo4j is a simple Neo4j PowerShell module, allowing you to quickly build up graph data from any of the technologies PowerShell can interface with.
 
 ## Videos
 * [Six Degrees of Domain Admin...](https://www.youtube.com/watch?v=lxd2rerVsLo) - Presentation of Bloodhound from 2016 by Andy Robbins, Will Schroeder and Rohan Vazarkar.
@@ -98,7 +108,7 @@ If this is your first time using Bloodhound , the Bloodhound repository is the p
 * [The Official BloodHound Swag Store](https://www.customink.com/fundraising/bloodhound-swag) - The Official BloodHound Swag Store
 * [@CptJesus](https://twitter.com/cptjesus) - Bloodhound creator and maintainer
 * [@wald0](https://twitter.com/_wald0) - Bloodhound creator and maintainer
-* [@harmj0y](https://twitter.com/harmj0y) - Bloodhound creato
+* [@harmj0y](https://twitter.com/harmj0y) - Bloodhound creator
 * [@SadProcessor](https://twitter.com/sadprocessor) - Writer of The Dog Whisperer's Handbook - See the [Ebooks](#ebooks) section for download.
 
 ## Tips and tricks
@@ -108,10 +118,6 @@ If this is your first time using Bloodhound , the Bloodhound repository is the p
 * [Get help from Bloodhound - @wald0](https://twitter.com/_wald0/status/1154440486410579974?s=20) - How do I abuse a relationship that #BloodHound is showing me?
 * [Computer objects in Bloodhound - @wald0](https://twitter.com/_wald0/status/1167550622851190784?s=20) - Did you know...
 * [Unsupported OS - @aceb0nd](https://twitter.com/aceb0nd/status/1166150922021429248?s=20) - Find unsupported (and potentially vulnerable) Windows OS using this cypher query.
-
-## Non-English material
-* [Bloodhound en français](https://beta.hackndo.com/bloodhound/) - BloodHound usage article in French, by pixis
-  * [Bloodhound en français - translated](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fbeta.hackndo.com%2Fbloodhound%2F) - Google translated version of the above article
 
 ## Contributing
 If you want to contribute directly, you can use the following markdown template for creating new entries.
