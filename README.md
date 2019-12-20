@@ -48,8 +48,7 @@ If this is your first time using Bloodhound , the Bloodhound repository is the p
 ## Usage guides
 * [SadProcessor/HandsOnBloodHound](https://github.com/SadProcessor/HandsOnBloodHound) - Material for the "Hands-On BloodHound" Workshop
   * [HandsOnBloodHound.pdf](https://github.com/SadProcessor/HandsOnBloodHound/blob/master/Workshop/HandsOnBloodHound.pdf) - Slides for the above talk at Brucon2019, by @SadProcessor
-* [Bloodhound en français](https://beta.hackndo.com/bloodhound/) - BloodHound usage article in French, by pixis
-  * [Bloodhound en français - translated](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fbeta.hackndo.com%2Fbloodhound%2F) - Google translated version of the above article
+* [Bloodhound](https://en.hackndo.com/bloodhound/) - BloodHound usage article, by pixis
 * [BloodHound Tips and Tricks - riccardoancarani.it](https://www.riccardoancarani.it/bloodhound-tips-and-tricks/) - Tips and tricks for Bloodhound workflow and using the functionality.
 
 ## Tools
