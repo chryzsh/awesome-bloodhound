@@ -53,6 +53,7 @@ If this is your first time using Bloodhound , the Bloodhound repository is the p
 
 ## Usage guides
 
+* [BloodHound offical documentation](https://bloodhound.readthedocs.io) - Official documentation on readthedocs.io
 * [SadProcessor/HandsOnBloodHound](https://github.com/SadProcessor/HandsOnBloodHound) - Material for the "Hands-On BloodHound" Workshop
   * [HandsOnBloodHound.pdf](https://github.com/SadProcessor/HandsOnBloodHound/blob/master/Workshop/HandsOnBloodHound.pdf) - Slides for the above talk at Brucon2019, by @SadProcessor
 * [Bloodhound](https://en.hackndo.com/bloodhound/) - BloodHound usage article, by pixis
