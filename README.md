@@ -79,7 +79,7 @@ If this is your first time using Bloodhound , the Bloodhound repository is the p
 * [porterhau5/BloodHound-Owned](https://github.com/porterhau5/BloodHound-Owned) - A collection of files for adding and leveraging custom properties in BloodHound.
 * [Coalfire-Research/Vampire](https://github.com/Coalfire-Research/Vampire) - Vampire is an aggressor script which integrates with BloodHound to mark nodes as owned.
 * [chrismaddalena/Fox](https://github.com/chrismaddalena/Fox) -A companion tool for BloodHound offering Active Directory statistics and number crunching  
-* [davidprowe/BadBlood]*(https://github.com/davidprowe/BadBlood) - BadBlood by Secframe fills a Microsoft Active Directory Domain with a structure and thousands of objects.
+* [davidprowe/BadBlood](https://github.com/davidprowe/BadBlood) - BadBlood by Secframe fills a Microsoft Active Directory Domain with a structure and thousands of objects.
 * [knavesec/Max](https://github.com/knavesec/Max) - Maximizing BloodHound with a simple quite of tools. Includes bulk import of owned assets, the BloodHound Domain Password Audit Tool, new attack primitives and more
 
 ## Methodology and reporting
